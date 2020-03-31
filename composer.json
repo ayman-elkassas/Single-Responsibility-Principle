@@ -1,0 +1,11 @@
+{
+    "name": "ayman/1-code",
+    "description": "SOLID Single responsibility principle",
+    "authors": [
+        {
+            "name": "Ayman Elkassas",
+            "email": "aymanelkassas88@gmail.com"
+        }
+    ],
+    "require": {}
+}
