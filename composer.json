@@ -7,5 +7,10 @@
             "email": "aymanelkassas88@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "Classes"
+        }
+    }
 }
